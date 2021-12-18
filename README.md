@@ -6,7 +6,7 @@ This repo is a fork from the MIT introtodeeplearning course.
 #### Lab1: 
 Intoduction to tensorflow and Recurrent Neural Networks.
 #### Lab2:
-Introduction to Convolutional Neural Networks and Generative Adversarial Networks.
+Introduction to Latent Variable Models, such as VAE's and GAN's
 #### Lab3:
 Introduction to Reinforcement Learning and implementation of the DQN algorithm.
 
