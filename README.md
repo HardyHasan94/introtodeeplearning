@@ -19,6 +19,8 @@ This package contains convenience functions that we use in all labs. Import:
 
 `>>> import mitdeeplearning as mdl`
 
+--------------------------
+--------------------------
 > © MIT 6.S191: Introduction to Deep Learning
 >
 > http://introtodeeplearning.com
